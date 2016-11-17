@@ -1,0 +1,8 @@
+1,0.8,Beiping
+2,0.6,Beiping
+3,0.6,Beijing shi
+4,0.5,Beijing
+5,0.4,Beijing shi
+6,0.4,Beijing shi
+7,0.3,Beijing hi
+8,0.2,Peking
